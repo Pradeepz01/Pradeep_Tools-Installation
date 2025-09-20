@@ -1,0 +1,1 @@
+I installed the ubuntu using the way u said in the course sir but still there is too much issues in it so i couldnt complete donwloading the entire softwares i have doubt!! can i do it using the ubuntu which is available in microsoft store
