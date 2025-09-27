@@ -45,6 +45,16 @@ This week focuses on writing, simulating, and synthesizing Verilog designs.
 <p align="center">
   <img width="433" height="88" alt="day2-liberty" src="https://github.com/user-attachments/assets/f9c56a38-134a-46c7-a294-ac9f2a78c072" />
 </p>
+-We can see the the name of this cell represents that the cell has 5 inputs and first two inputs are "ANDed" and ORed with other 3 inputs.
+<p align="center">
+  <img width="658" height="220" alt="Screenshot from 2025-09-27 18-31-54" src="https://github.com/user-attachments/assets/6adcec8f-9228-4f7a-8b27-493b5f80920b" />
+</p>
+**Hierarchical vs Flat Synthesis**
+
+<p align="center">
+<img width="1076" height="365" alt="image" src="https://github.com/user-attachments/assets/7ff714ab-8426-48af-b293-2c67b73fd9bf" />
+
+</p>
 
 </details>
 ---
