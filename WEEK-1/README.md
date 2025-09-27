@@ -33,9 +33,20 @@ This week focuses on writing, simulating, and synthesizing Verilog designs.
 <p align="center">
   <img width="1220" height="146" alt="yosys-terminal" src="https://github.com/user-attachments/assets/d444a6a7-7411-43b6-a452-20f2da1085e6" />
 </p>
+</details>
+---
+<details>
+<summary>📅 Day 2</summary>
+
+- Learned about the **Liberty (.lib) file properties**:  
+  - `025C` → Operating temperature  
+  - `1V80` → Supply voltage  
+
+<p align="center">
+  <img width="433" height="88" alt="day2-liberty" src="https://github.com/user-attachments/assets/f9c56a38-134a-46c7-a294-ac9f2a78c072" />
+</p>
 
 </details>
-
 ---
 
 📂 More days (Day 2, Day 3, …) will be added here as progress continues.
