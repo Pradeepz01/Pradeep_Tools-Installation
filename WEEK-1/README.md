@@ -55,6 +55,16 @@ This week focuses on writing, simulating, and synthesizing Verilog designs.
 <img width="1076" height="365" alt="image" src="https://github.com/user-attachments/assets/7ff714ab-8426-48af-b293-2c67b73fd9bf" />
 
 </p>
+Without flattening the verilog files looks like this
+<p align="center">
+<img width="241" height="296" alt="image" src="https://github.com/user-attachments/assets/231f4a25-484e-473e-9ffc-419c7c85e01b" />
+</p>
+
+This is how we flatten the synthesis
+<p align="center>
+<img width="652" height="510" alt="image" src="https://github.com/user-attachments/assets/4639aed5-4a8b-4d1c-b510-18381507a12b" />
+</p>
+
 
 </details>
 ---
